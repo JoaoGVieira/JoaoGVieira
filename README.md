@@ -1,11 +1,11 @@
 ## Prazer Meu nome é João Gabriel !!
------------------------------------------------
+
   
-  Currently learning *Kotlin*, *Swift*, *Asp.Net*.
+  - Currently learning *Kotlin*, *Swift*, *Asp.Net*.
   
-  Looking to collaborate on my improving my performance and one day becoming a *Full Stack Dev*
+  - Looking to collaborate on my improving my performance and one day becoming a *Full Stack Dev*
   
-  I love games and programming (*Rock is the best kind of music*) 
+  - I love games and programming (*Rock is the best kind of music*) 
 
 
   
@@ -28,6 +28,13 @@
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img  align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
 ##
