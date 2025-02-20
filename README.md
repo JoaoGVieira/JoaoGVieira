@@ -41,8 +41,8 @@
 
 <div style="display: inline_block"><br>
 <img align="center" height="40" width ="150" src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow">
-<img href="https://www.instagram.com/joao.s_vieira/" align="center" height="40" width ="150" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<img href="https://www.linkedin.com/in/joao-gabriel-da-silva-vieira-08893023b/" align="center" height="40" width ="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.instagram.com/joao.s_vieira/"><img  align="center" height="40" width ="150" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/joao-gabriel-da-silva-vieira-08893023b/"><img align="center" height="40" width ="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 
